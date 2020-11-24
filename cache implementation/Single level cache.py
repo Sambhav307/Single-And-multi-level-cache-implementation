@@ -408,3 +408,5 @@ while bool:
                 associativeMappingW(address,data)
                 NWaySetAssociativeMappingW(address,data)
     command=0
+
+sys.exit()

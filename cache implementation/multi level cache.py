@@ -745,3 +745,6 @@ while bool:
                 NWaySetAssociativeMappingW(address,data)
 
     command=0
+
+
+sys.exit()
